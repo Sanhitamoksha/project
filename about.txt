@@ -1,0 +1,7 @@
+Moksha Sai sanhita
+BCA Datascience
+welcome to Github
+
+GitHub is a web-based platform built on Git, a distributed version control system, offering a centralized hub for software development and collaboration.
+
+
